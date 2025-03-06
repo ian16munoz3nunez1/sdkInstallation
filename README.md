@@ -194,3 +194,57 @@ To kill processes use
 ```
 sudo kill <PID>
 ```
+
+#### Automation in Linux
+
+To automate SDK's installation, download [sdkInstallation.tar](https://github.com/ian16munoz3nunez1/sdkInstallation/sdkInstallation.tar) or [sdkInstallation.zip](https://github.com/ian16munoz3nunez1/sdkInstallation/sdkInstallation.zip)
+
+Uncompress tar file using
+
+```
+mkdir sdkInstallation && tar -xvf sdkInstallation.tar -C sdkInstallation
+```
+
+and uncompress zip file using
+
+```
+unzip sdkInstallation.zip -d sdkInstallation
+```
+
+Move the following files
+
+1. toshibaposs-gcc
+2. toshiba-javapos
+3. javax-usb
+4. javax-usb-ri
+5. javax-usb-ri-linux
+6. tcx-sdk
+
+to one folder, g.e. ***sdkSetup***
+
+Put ***sdkSetup*** and ***sdkInstallation*** in the same folder
+
+```
+.
+├─sdkSetup
+| ├─toshibaposs-gcc
+| ├─toshiba-javapos
+| ├─javax-usb
+| ├─javax-usb-ri
+| ├─javax-usb-ri-linux
+| └─tcx-sdk
+|
+└─sdkInstallation
+  ├─caCerticiate.sh
+  ├─clientCertificate.sh
+  ├─README.txt
+  ├─sdkInstall
+  └─serverCertificate.sh
+ 
+```
+
+To install the files of this folder, go to ***sdkInstallation*** folder and execute
+
+```
+sudo ./sdkInstall ../sdkSetup/ deb
+```
