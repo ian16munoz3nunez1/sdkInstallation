@@ -197,7 +197,7 @@ sudo kill <PID>
 
 #### Automation in Linux
 
-To automate SDK's installation, download [sdkInstallation.tar](https://github.com/ian16munoz3nunez1/sdkInstallation/sdkInstallation.tar) or [sdkInstallation.zip](https://github.com/ian16munoz3nunez1/sdkInstallation/sdkInstallation.zip)
+To automate SDK's installation, download sdkInstallation.tar or sdkInstallation.zip
 
 Uncompress tar file using
 
