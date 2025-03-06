@@ -12,7 +12,7 @@
 C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1
 ```
 
-3. Install UPOS (download GA from [UPOS](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea))
+3. Install UPOS (download GA from [UPOS](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea))
 
 4. Extract `C:\POS\drivers\javaxusb_lights\javaxusb_lights.zip`
 
@@ -31,7 +31,7 @@ C:\POS\bin\aipdifx.exe -i C:\POS\drivers\oem\psc\javaxusb_oem_psc.inf -v
 ```
 8. Install SDK
 
-9. Install ***TTEC*** drivers (Download driver from [TTEC](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-selfcheckout))
+9. Install ***TTEC*** drivers (Download driver from [TTEC](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-selfcheckout))
 
 10. Overwrite the value of `TCX_SDK_EXT` variable for
 
@@ -61,7 +61,7 @@ C:\Program Files (x86)\TOSHIBA\JavaPOS\JavaLibrary\CmnJLog.jar;C:\Program Files 
 C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1
 ```
 
-3. Install UPOS (download GA from [UPOS](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea))
+3. Install UPOS (download GA from [UPOS](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea))
 
 4. Extract `C:\POS\drivers\javaxusb_lights\javaxusb_lights.zip`
 
@@ -135,7 +135,7 @@ sudo apt install openjdk-8-jdk
 sudo apt install ./<filename>.deb
 ```
 
-Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
+Download UPOS deb package [here](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
 
 5. Install `toshiba-javapos` deb file with
 
@@ -143,7 +143,7 @@ Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/market
 sudo apt install ./<filename>.deb
 ```
 
-Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
+Download UPOS deb package [here](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
 
 6. Install `javax-usb` deb file with
 
@@ -151,7 +151,7 @@ Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/market
 sudo apt install ./<filename>.deb
 ```
 
-Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
+Download UPOS deb package [here](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
 
 7. Install `javax-usb-ri` deb file with
 
@@ -159,7 +159,7 @@ Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/market
 sudo apt install ./<filename>.
 ```
 
-Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
+Download UPOS deb package [here](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
 
 8. Install `javax-usb-ri-linux` deb file with
 
@@ -167,7 +167,7 @@ Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/market
 sudo apt install ./<filename>.deb
 ```
 
-Download UPOS deb package [here](https://toshibacommerce.com/wps/myportal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
+Download UPOS deb package [here](https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/support/product-support/support-hardware/support-commonpackages-sitearea)
 
 9. Install ***SDK***
 
